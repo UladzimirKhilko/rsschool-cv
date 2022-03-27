@@ -56,3 +56,22 @@ console.log(filterArray(numbers, isOdd)); //[1, 3, 5]
 ```
 ***
 ***
+## ** _Education_ **
+***
+* **Udemy**
+    * HTML + CSS
+    ![HTML + CSS](./images/UC-8417e2e4-a0f4-4e99-9f5f-895d5589275a.jpeg)
+    * HTML5, CSS3, FlexBox
+    ![HTML5, CSS3, FlexBox](./images/UC-08a9488d-8046-43a1-8c74-392380440ed6.jpeg)
+    * Full Stack 
+    ![Full Stack](./images/UC-205abddf-3008-4a06-b556-7ef4cdf80a8b.jpeg)
+    * JavaScript + React
+    ![JavaScript + React](./images/2022-03-27%2014.13.11.jpg)
+    * React 
+    ![React](./images/2022-03-27%2013.46.33.jpg)
+    * React Native 2020
+    ![React Native](./images/UC-cedde467-19f4-4c7e-9662-fc9b2af4a725.jpeg)
+    * Fundamentals JavaScript (in process)
+
+    ***
+    ***
