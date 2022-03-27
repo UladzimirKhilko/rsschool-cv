@@ -3,7 +3,7 @@
 ***
 
 
-## ** _My contacts_ **
+## *__My contacts__*
 ----
 * **Email:**   vladimirhilko@gmail.com
 * **Phone:**   +375 44 7933766
@@ -11,12 +11,12 @@
 ***
 ***
 
-## ** _About me_ **
+## *__About me__*
 ***
 At 53, I decided to try my hand at frontend development. I have been taking various online courses on Udemy for over a year. Since November 2021, I have been working on a small project as a developer. I really enjoy the application development process. I love getting new knowledge. I take the learning process very seriously. Taking these courses is a challenge to yourself...
 ***
 ***
-## ** _Skills_**
+## *__Skills__*
 ***
 * HTML
 * CSS (SASS/SCSS, Bootstrap)
@@ -27,7 +27,7 @@ At 53, I decided to try my hand at frontend development. I have been taking vari
 * VSCode, Sublime
 ***
 ***
-## ** _Code examples_ **
+## *__Code examples__*
 ***
 ``` javascript
 function filterArray(array, callback) {
@@ -56,7 +56,7 @@ console.log(filterArray(numbers, isOdd)); //[1, 3, 5]
 ```
 ***
 ***
-## ** _Education_ **
+## *__Education__*
 ***
 * **Udemy**
     * HTML + CSS
@@ -73,5 +73,11 @@ console.log(filterArray(numbers, isOdd)); //[1, 3, 5]
     ![React Native](./images/UC-cedde467-19f4-4c7e-9662-fc9b2af4a725.jpeg)
     * Fundamentals JavaScript (in process)
 
-    ***
-    ***
+***
+***
+## *__Languages__*
+***
+
+  * **Russian** - native speaker.
+  * **English** - A2 (Elementary)
+
