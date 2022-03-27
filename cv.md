@@ -27,3 +27,32 @@ At 53, I decided to try my hand at frontend development. I have been taking vari
 * VSCode, Sublime
 ***
 ***
+## ** _Code examples_ **
+***
+``` javascript
+function filterArray(array, callback) {
+  const newArray = [];
+  
+  for (let i = 0; i < array.length; i += 1) {
+    if (callback(array[i])) newArray.push(array[i]);
+  }
+  return newArray;
+}
+const numbers = [1, 2, 3, 4, 5];
+
+function isOdd(num) {
+    return num % 2 !== 0; 
+}
+function isEven(num) {
+   return num % 2 === 0;
+}
+
+filterArray(numbers, isOdd);
+filterArray(numbers, isEven);
+
+//Проверка
+console.log(filterArray(numbers, isEven)); // [2, 4]
+console.log(filterArray(numbers, isOdd)); //[1, 3, 5]
+```
+***
+***
